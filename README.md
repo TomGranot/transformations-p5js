@@ -1,3 +1,8 @@
+# Credit
+
+Originally on https://github.com/oliviaross/transformations-p5js, here just to fix the picture links.
+
+
 # 2D Tranformations in p5.js
 
 This tutorial is an alternative version of the processing tutorial,  [2D Transformations by J. David Eisenberg] (https://processing.org/tutorials/transform2d/), adapted for p5.js.
@@ -11,7 +16,7 @@ rect(20, 20, 40, 40);
 
 ```
 
-![alt](Screen Shot 2016-07-20 at 11.44.08 AM.png)
+![alt](/Screen Shot 2016-07-20 at 11.44.08 AM.png)
 
 
 If you want to move the rectangle 60 units right and 80 units down, you _can_ change the coordinates, by adding to the _x_ and _y_ starting point:
