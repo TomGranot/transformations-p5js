@@ -1,8 +1,3 @@
-# Credit
-
-Originally on https://github.com/oliviaross/transformations-p5js, here just to fix the picture links.
-
-
 # 2D Tranformations in p5.js
 
 This tutorial is an alternative version of the processing tutorial,  [2D Transformations by J. David Eisenberg] (https://processing.org/tutorials/transform2d/), adapted for p5.js.
